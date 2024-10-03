@@ -162,7 +162,7 @@ git remote -v
 <p>Este guia foi criado por:</p>
 
 <ul>
-  <li><strong>Seu Nome</strong> - Desenvolvedor - <a href="https://github.com/seu-usuario">GitHub</a></li>
+  <li><strong>Lucas Jesus</strong> - Desenvolvedor - <a href="https://github.com/Lucasjpl1">GitHub</a></li>
 </ul>
 
 <h2>📌 Versão</h2>
@@ -173,6 +173,3 @@ git remote -v
 
 <p>Este projeto está licenciado sob a licença MIT - veja o arquivo <a href="LICENSE.md">LICENSE.md</a> para mais detalhes.</p>
 
-<h2>🎉 Agradecimentos</h2>
-
-<p>Agradecimentos a todos que contribuíram para o desenvolvimento deste guia e à comunidade GitHub por fornecer suporte contínuo.</p>
